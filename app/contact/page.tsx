@@ -16,7 +16,7 @@ export default function ContactPage() {
           subtitle="Tell us your goals and training history. We’ll recommend the best starting point."
           primaryCta={{ label: "Call (512) 555-0198", href: "tel:+15125550198" }}
           secondaryCta={{ label: "Email Us", href: "mailto:hello@ironandoakfitness.com" }}
-          imageSrc="https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578051/site-images/fitness/10112284.jpg"
+          imageSrc="https://res.cloudinary.com/dwc294mzm/image/upload/v1771578078/site-images/fitness/10475451.jpg"
         />
       </section>
 

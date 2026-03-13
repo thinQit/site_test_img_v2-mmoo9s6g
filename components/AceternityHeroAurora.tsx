@@ -14,7 +14,7 @@ interface AceternityHeroAuroraProps {
 export default function AceternityHeroAurora({
   headline = 'BUILD RELENTLESS STRENGTH',
   subheadline = 'Personal coaching + high-intensity group classes at Iron & Oak Fitness.',
-  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578059/site-images/fitness/14037024.jpg',
+  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/v1771578074/site-images/fitness/10551484.jpg',
 }: Partial<AceternityHeroAuroraProps>) {
   return (
     <AuroraBackground className="min-h-[85vh]">

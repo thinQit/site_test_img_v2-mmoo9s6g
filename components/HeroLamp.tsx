@@ -9,7 +9,7 @@ interface HeroLampProps {
 export default function HeroLamp({
   title = 'TERMS OF SERVICE',
   description = 'Clear terms for memberships, billing, cancellations, and facility policies at Iron & Oak Fitness.',
-  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577705/site-images/hero-backgrounds/12981881.jpg',
+  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/v1771578053/site-images/fitness/11075080.jpg',
 }: Partial<HeroLampProps>) {
   return (
     <section className="relative bg-[#111111] py-20 text-white">

@@ -15,7 +15,7 @@ export default function AboutPage() {
           subtitle="Iron & Oak was built to feel premium and perform like a training facility."
           primaryCta={{ label: "Meet the Coaches", href: "/about#team" }}
           secondaryCta={{ label: "Book a Free Intro", href: "/contact" }}
-          imageSrc="https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578051/site-images/fitness/13965875.jpg"
+          imageSrc="https://res.cloudinary.com/dwc294mzm/image/upload/v1771578064/site-images/fitness/11385974.jpg"
         />
       </section>
 
@@ -27,9 +27,9 @@ export default function AboutPage() {
             primaryCta={{ label: "Start Coaching", href: "/contact" }}
             secondaryCta={{ label: "Questions? Contact Us", href: "/contact" }}
             trainers={[
-              { name: "Maya Torres", role: "Head Coach • Strength & Conditioning", imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577363/site-images/team-people/12903169.jpg" },
-              { name: "Jordan Kim", role: "Coach • Powerbuilding", imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577335/site-images/team-people/1181734.jpg" },
-              { name: "Elena Rossi", role: "Coach • Mobility & Performance", imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577357/site-images/team-people/1181738.jpg" },
+              { name: "Maya Torres", role: "Head Coach • Strength & Conditioning", imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578091/site-images/fitness/13896897.jpg" },
+              { name: "Jordan Kim", role: "Coach • Powerbuilding", imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578078/site-images/fitness/13993019.jpg" },
+              { name: "Elena Rossi", role: "Coach • Mobility & Performance", imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578055/site-images/fitness/13278075.jpg" },
             ]}
           />
         </SectionContainer>

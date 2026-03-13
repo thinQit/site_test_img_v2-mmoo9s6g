@@ -9,7 +9,7 @@ interface HeroGradientBlobProps {
 export default function HeroGradientBlob({
   title = 'PRIVACY & MEMBER DATA',
   description = 'We protect your information and use secure systems to manage memberships, billing, and progress data.',
-  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577710/site-images/hero-backgrounds/12981879.jpg',
+  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/v1771578084/site-images/fitness/13106579.jpg',
 }: Partial<HeroGradientBlobProps>) {
   return (
     <section className="relative overflow-hidden bg-black py-20 text-white">

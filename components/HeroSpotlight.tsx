@@ -11,7 +11,7 @@ interface HeroSpotlightProps {
 export default function HeroSpotlight({
   title = 'COACHING THAT MEETS YOU WHERE YOU ARE',
   description = 'Whether you are rebuilding confidence or chasing your next PR, our coaches build a plan around your body, schedule, and goals.',
-  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578051/site-images/fitness/13965875.jpg',
+  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/v1771578070/site-images/fitness/10942666.jpg',
 }: Partial<HeroSpotlightProps>) {
   return (
     <section className="bg-black py-16 md:py-20">

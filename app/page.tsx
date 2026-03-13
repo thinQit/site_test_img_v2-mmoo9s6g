@@ -20,7 +20,7 @@ export default function HomePage() {
           subheadline="Iron & Oak Fitness is a premium strength gym for people who want measurable progress: personal coaching, small-group lifting, and a class schedule built around performance—not gimmicks."
           primaryCta={{ label: "Book a Free Intro Session", href: "/contact" }}
           secondaryCta={{ label: "View Class Schedule", href: "#classes" }}
-          imageSrc="https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578059/site-images/fitness/14037024.jpg"
+          imageSrc="https://res.cloudinary.com/dwc294mzm/image/upload/v1771578067/site-images/fitness/10039536.jpg"
           quickFacts={[
             { label: "Location", value: "214 Foundry Ave, Austin, TX 78701" },
             { label: "Hours", value: "Mon–Fri 5:30am–8:30pm • Sat 8:00am–2:00pm • Sun 9:00am–1:00pm" },
@@ -55,19 +55,19 @@ export default function HomePage() {
               {
                 name: "Maya Torres",
                 role: "Head Coach • Strength & Conditioning",
-                imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577321/site-images/team-people/1181622.jpg",
+                imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578051/site-images/fitness/12250460.jpg",
                 bio: "Maya builds strong lifters from the ground up—clean technique, clear goals, and a plan you can stick to.",
               },
               {
                 name: "Jordan Kim",
                 role: "Coach • Powerbuilding",
-                imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577358/site-images/team-people/1181401.jpg",
+                imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578048/site-images/fitness/140955.jpg",
                 bio: "Jordan blends strength and aesthetics with smart volume and joint-friendly progressions.",
               },
               {
                 name: "Elena Rossi",
                 role: "Coach • Mobility & Performance",
-                imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577370/site-images/team-people/1181405.jpg",
+                imageUrl: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578068/site-images/fitness/14008976.jpg",
                 bio: "Elena keeps athletes moving well so they can train hard—without feeling beat up.",
               },
             ]}
@@ -96,10 +96,10 @@ export default function HomePage() {
             primaryCta={{ label: "Start Your Transformation", href: "/contact" }}
             secondaryCta={{ label: "Read Testimonials", href: "#testimonials" }}
             images={[
-              { url: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578086/site-images/fitness/13106584.jpg", alt: "Member transformation 1", caption: "12 weeks • +65 lb deadlift" },
-              { url: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578058/site-images/fitness/1103244.jpg", alt: "Member transformation 2", caption: "16 weeks • First strict pull-up" },
-              { url: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578078/site-images/fitness/10475451.jpg", alt: "Member transformation 3", caption: "10 weeks • +40 lb squat" },
-              { url: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578064/site-images/fitness/11385974.jpg", alt: "Member training progress", caption: "Consistent coaching wins" },
+              { url: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578061/site-images/fitness/11513151.jpg", alt: "Member transformation 1", caption: "12 weeks • +65 lb deadlift" },
+              { url: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578079/site-images/fitness/13947314.jpg", alt: "Member transformation 2", caption: "16 weeks • First strict pull-up" },
+              { url: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578047/site-images/fitness/13211514.jpg", alt: "Member transformation 3", caption: "10 weeks • +40 lb squat" },
+              { url: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578063/site-images/fitness/13863730.jpg", alt: "Member training progress", caption: "Consistent coaching wins" },
             ]}
           />
         </SectionContainer>
@@ -143,21 +143,21 @@ export default function HomePage() {
                   "I’ve tried big-box gyms for years and never stuck with it. Here, the coaching is constant—my form improved in week one, and I hit a deadlift PR by week four.",
                 name: "Danielle W.",
                 designation: "Member • Small-Group PT",
-                src: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577325/site-images/team-people/10347164.jpg",
+                src: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578053/site-images/fitness/13018401.jpg",
               },
               {
                 quote:
                   "The programming is legit. It’s not random workouts—there’s a plan. The coaches know my numbers and push me when I need it.",
                 name: "Chris M.",
                 designation: "Member • Unlimited Classes",
-                src: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577370/site-images/team-people/10375912.jpg",
+                src: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578072/site-images/fitness/14086547.jpg",
               },
               {
                 quote:
                   "I was nervous to lift. The environment is intense in a good way, but never intimidating. I learned the barbell basics and feel stronger every week.",
                 name: "Priya S.",
                 designation: "Member • Foundations",
-                src: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577351/site-images/team-people/12903244.jpg",
+                src: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578084/site-images/fitness/13993903.jpg",
               },
             ]}
           />

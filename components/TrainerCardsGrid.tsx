@@ -21,7 +21,7 @@ export default function TrainerCardsGrid({
       bio: 'Focused on technique-first training and measurable progression.',
       specialties: ['Barbell', 'Athletic Strength'],
       credentials: ['CSCS'],
-      imageSrc: 'https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577321/site-images/team-people/1181622.jpg',
+      imageSrc: 'https://res.cloudinary.com/dwc294mzm/image/upload/v1771578092/site-images/fitness/13106581.jpg',
     },
     {
       name: 'Coach Nina Brooks',
@@ -29,7 +29,7 @@ export default function TrainerCardsGrid({
       bio: 'Builds high-energy classes that scale to every fitness level.',
       specialties: ['Conditioning', 'Movement Quality'],
       credentials: ['NASM-CPT'],
-      imageSrc: 'https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577358/site-images/team-people/1181401.jpg',
+      imageSrc: 'https://res.cloudinary.com/dwc294mzm/image/upload/v1771578051/site-images/fitness/13965875.jpg',
     },
     {
       name: 'Coach Marcus Lee',
@@ -37,7 +37,7 @@ export default function TrainerCardsGrid({
       bio: 'Works one-on-one to create personalized plans and accountability.',
       specialties: ['Fat Loss', 'Strength Foundations'],
       credentials: ['PN1', 'USAW-L1'],
-      imageSrc: 'https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577370/site-images/team-people/1181405.jpg',
+      imageSrc: 'https://res.cloudinary.com/dwc294mzm/image/upload/v1771578062/site-images/fitness/13621287.jpg',
     },
   ],
 }: Partial<TrainerCardsGridProps>) {

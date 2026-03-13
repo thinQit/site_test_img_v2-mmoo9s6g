@@ -24,21 +24,21 @@ export default function TestimonialsAnimated({
         "I dropped 18 pounds in 12 weeks and gained serious confidence. The coaches keep every session intense and focused.",
       name: "Alicia M.",
       designation: "Member • 8 Months",
-      src: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578059/site-images/fitness/14037024.jpg",
+      src: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578058/site-images/fitness/1103244.jpg",
     },
     {
       quote:
         "From my first class, I felt welcomed and challenged. The programming is smart, and I’m stronger than ever.",
       name: "Darnell T.",
       designation: "Member • 1 Year",
-      src: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578051/site-images/fitness/13965875.jpg",
+      src: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578052/site-images/fitness/13106575.jpg",
     },
     {
       quote:
         "I used to skip workouts. Now I train 5 days a week because every class pushes me with purpose.",
       name: "Priya R.",
       designation: "Member • 6 Months",
-      src: "https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578051/site-images/fitness/10112284.jpg",
+      src: "https://res.cloudinary.com/dwc294mzm/image/upload/v1771578051/site-images/fitness/10112284.jpg",
     },
   ],
   autoplay = true,

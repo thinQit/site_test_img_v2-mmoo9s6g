@@ -12,7 +12,7 @@ interface HeroWavesProps {
 export default function HeroWaves({
   title = 'LET’S TALK ABOUT YOUR TRAINING GOALS',
   subtitle = 'Book a free intro session and discover the right path for your body and lifestyle.',
-  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771578053/site-images/fitness/13018401.jpg',
+  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/v1771578091/site-images/fitness/136404.jpg',
 }: Partial<HeroWavesProps>) {
   return (
     <section className="relative overflow-hidden bg-[#111111] py-16 text-white">

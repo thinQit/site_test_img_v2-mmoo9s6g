@@ -18,7 +18,7 @@ export default function TrainerCard({
   bio = 'Alex helps members build durable strength with structured progressions and intentional coaching.',
   specialties = ['Barbell Technique', 'Mobility', 'Hypertrophy'],
   credentials = ['CSCS', 'USAW-L1'],
-  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/c_fill,w_1200,h_800,g_auto/v1771577321/site-images/team-people/1181622.jpg',
+  imageSrc = 'https://res.cloudinary.com/dwc294mzm/image/upload/v1771578072/site-images/fitness/13562693.jpg',
 }: Partial<TrainerCardProps>) {
   return (
     <Card className="overflow-hidden border-white/15 bg-[#151515] text-white">
