@@ -46,7 +46,7 @@ export default function Navbar({
               {link.label}
             </Link>
           ))}
-          <Button asChild className="bg-[#FF2E00] font-semibold text-white hover:bg-[#e12800]">
+          <Button asChild className="bg-blue-600 font-semibold text-white hover:bg-blue-700">
             <Link href={ctaHref}>{ctaLabel}</Link>
           </Button>
         </div>
@@ -54,7 +54,7 @@ export default function Navbar({
         <button
           aria-label="Toggle Menu"
           onClick={() => setOpen(!open)}
-          className="text-white md:hidden"
+          className="text-blue-300 md:hidden"
         >
           {open ? <X className="h-6 w-6" /> : <Menu className="h-6 w-6" />}
         </button>
@@ -77,7 +77,7 @@ export default function Navbar({
               {link.label}
             </Link>
           ))}
-          <Button asChild className="w-full bg-[#FF2E00] text-white hover:bg-[#e12800]">
+          <Button asChild className="w-full bg-blue-600 text-white hover:bg-blue-700">
             <Link href={ctaHref}>{ctaLabel}</Link>
           </Button>
         </div>

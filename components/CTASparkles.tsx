@@ -9,7 +9,7 @@ export default function CTASparkles() {
       <div className="relative mx-auto max-w-7xl px-4 md:px-6">
         <h2 className="font-['Anton'] text-4xl uppercase md:text-5xl">Start Your Free Week</h2>
         <p className="mt-3 max-w-2xl">Includes movement assessment, coached sessions, and a personalized plan. Bring training shoes and water.</p>
-        <Button className="mt-6 bg-black text-white hover:bg-black/90">Claim Trial</Button>
+        <Button className="mt-6 bg-blue-600 text-white hover:bg-blue-700">Claim Trial</Button>
       </div>
     </section>
   )

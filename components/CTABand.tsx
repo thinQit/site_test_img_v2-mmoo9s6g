@@ -21,8 +21,8 @@ export default function CTABand({
           </ul>
         </div>
         <div className="flex gap-3">
-          <Button className="bg-[#FF2E00] hover:bg-[#e12800]">Book Intro</Button>
-          <Button variant="outline" className="border-white/40 text-white">View Plans</Button>
+          <Button className="bg-blue-600 hover:bg-blue-700">Book Intro</Button>
+          <Button variant="outline" className="border-blue-400 text-blue-100 hover:bg-blue-500/10">View Plans</Button>
         </div>
       </div>
     </section>

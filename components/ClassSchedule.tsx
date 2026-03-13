@@ -26,7 +26,7 @@ export default function ClassSchedule({
             <button
               key={d.day}
               onClick={() => setActive(d.day)}
-              className={active === d.day ? 'rounded-lg bg-[#FF2E00] px-4 py-2 text-sm font-semibold text-white' : 'rounded-lg bg-white/10 px-4 py-2 text-sm text-white/80'}
+              className={active === d.day ? 'rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white hover:bg-blue-700' : 'rounded-lg border border-blue-500/40 px-4 py-2 text-sm text-blue-100 hover:bg-blue-500/10'}
             >
               {d.day}
             </button>
@@ -41,7 +41,7 @@ export default function ClassSchedule({
             </Card>
           ))}
         </div>
-        <Button className="mt-6 bg-[#FF2E00] hover:bg-[#e12800]">Reserve Spot</Button>
+        <Button className="mt-6 bg-blue-600 hover:bg-blue-700">Reserve Spot</Button>
       </div>
     </section>
   )

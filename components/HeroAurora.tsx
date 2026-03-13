@@ -42,7 +42,7 @@ export default function HeroAurora({
         <div className="mt-8 flex flex-col items-center gap-4 sm:flex-row">
           <Button
             size="lg"
-            className="px-8 py-6 text-lg uppercase tracking-wide transition-all duration-200 hover:scale-105"
+            className="px-8 py-6 text-lg uppercase tracking-wide transition-all duration-200 hover:scale-105 bg-blue-600 text-white hover:bg-blue-700"
             asChild
           >
             <a href={primaryCta.href}>{primaryCta.label}</a>
@@ -51,7 +51,7 @@ export default function HeroAurora({
             <Button
               variant="outline"
               size="lg"
-              className="px-8 py-6 text-lg uppercase tracking-wide transition-all duration-200 hover:scale-105"
+              className="px-8 py-6 text-lg uppercase tracking-wide transition-all duration-200 hover:scale-105 border-blue-500 text-blue-600 hover:bg-blue-500/10"
               asChild
             >
               <a href={secondaryCta.href}>{secondaryCta.label}</a>

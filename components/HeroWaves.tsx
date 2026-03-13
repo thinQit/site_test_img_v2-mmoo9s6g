@@ -21,7 +21,7 @@ export default function HeroWaves({
         <div>
           <h1 className="font-['Anton'] text-4xl uppercase md:text-6xl">{title}</h1>
           <p className="mt-4 text-white/80">{subtitle}</p>
-          <Button className="mt-6 bg-[#FF2E00] hover:bg-[#e12800]">Book Intro</Button>
+          <Button className="mt-6 bg-blue-600 hover:bg-blue-700">Book Intro</Button>
         </div>
         <Image src={imageSrc} alt={title} width={1200} height={800} className="rounded-xl object-cover" unoptimized />
       </div>

@@ -25,10 +25,10 @@ export default function AceternityHeroAurora({
         </h1>
         <p className="mt-4 max-w-2xl text-base text-white/85 md:text-lg">{subheadline}</p>
         <div className="mt-8 flex flex-wrap gap-3">
-          <Button asChild className="bg-[#FF2E00] text-white hover:bg-[#e12800]">
+          <Button asChild className="bg-blue-600 text-white hover:bg-blue-700">
             <Link href="#contact">Claim Free Week</Link>
           </Button>
-          <Button asChild variant="outline" className="border-white/40 text-white hover:bg-white/10">
+          <Button asChild variant="outline" className="border-blue-400 text-blue-100 hover:bg-blue-500/10">
             <Link href="#classes">View Schedule</Link>
           </Button>
         </div>

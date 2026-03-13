@@ -22,7 +22,7 @@ export default function ContactForm() {
           <Input required type="email" placeholder="Email" className="bg-black text-white" />
           <Input required placeholder="Phone" className="bg-black text-white" />
           <Input placeholder="Your Goal (Strength, Fat Loss, Performance)" className="bg-black text-white" />
-          <Button type="submit" className="w-full bg-[#FF2E00] hover:bg-[#e12800]">Submit</Button>
+          <Button type="submit" className="w-full bg-blue-600 hover:bg-blue-700">Submit</Button>
           {submitted && <p className="text-sm text-green-400">Thanks! We will reach out shortly.</p>}
         </form>
       </div>

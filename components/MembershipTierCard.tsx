@@ -29,7 +29,7 @@ export default function MembershipTierCard({
           <li key={f} className="flex items-start gap-2"><Check className="mt-0.5 h-4 w-4 text-[#FF2E00]" /> {f}</li>
         ))}
       </ul>
-      <Button className={cn('mt-6 w-full', highlighted ? 'bg-[#FF2E00] hover:bg-[#e12800]' : 'bg-white text-black hover:bg-white/90')}>
+      <Button className={cn('mt-6 w-full', highlighted ? 'bg-blue-600 text-white hover:bg-blue-700' : 'bg-blue-600 text-white hover:bg-blue-700')}>
         Join Now
       </Button>
     </Card>
